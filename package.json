@@ -7,7 +7,9 @@
   "author": "ElleryVernon(Han Seong-Min)",
   "license": "MIT",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "axios": "^0.21.1",
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "start": "npx nodemon --exec babel-node index.js"
